@@ -1,0 +1,30 @@
+_repo: Valitut-teokset-1910-1922_13428
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kaila, Eino
+    birthdate: 1890
+    deathdate: 1958
+    gutenberg_agent_id: '5043'
+    url: http://www.gutenberg.org/2009/agents/5043
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Eino_Kaila
+    - http://fi.wikipedia.org/wiki/Eino_Kaila
+description: Includes all Eino Kaila's pre-1923 works from the "Valitut teokset 1"
+  compilation.
+gutenberg_issued: '2004-09-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13428'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philosophy'
+- !lcc 'B'
+title: Valitut teokset 1910-1922
+url: http://www.gutenberg.org/ebooks/13428
